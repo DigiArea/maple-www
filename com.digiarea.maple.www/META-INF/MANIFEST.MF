@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Www
+Bundle-SymbolicName: com.digiarea.maple.www
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: DIGIAREA
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
