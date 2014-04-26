@@ -1,6 +1,7 @@
 ![MapleWWW tools](http://digi-area.com/images/light/maplewww/logo.png)
 
 Maple WWW is a technology that brings Maple Worksheets to World Wide Web. Maple WWW is made with Closure IDE.
+
 Maple WWW Tool com.digiarea.maple.www is an Eclipse plugin to prepare Maple Worksheets for Maple WWW.
 
 #### Requirements
