@@ -16,7 +16,7 @@
 
 Use the following command line to run the tool:
 ```bash
-java -cp "PATH_TO_FOLDER_WITH_THE_EXPORTED_PLUGIN/*" com.digiarea.maple.www.Converter -src "PATH_TO_FOLDER_WITH_MAPLE_WORKSHEETS" -dst "PATH_TODESTINATION_FOLDER" -url "http://digi-area.com/light/MapleWWW/js/maple-www.js" -kind ANY
+java -cp "PATH_TO_FOLDER_WITH_THE_EXPORTED_PLUGIN/*" com.digiarea.maple.www.Converter -src "PATH_TO_FOLDER_WITH_MAPLE_WORKSHEETS" -dst "PATH_TO_DESTINATION_FOLDER" -url "URL_OF_MAPLE_WWW_JS" -kind ANY
 ```
 
 ### Links
