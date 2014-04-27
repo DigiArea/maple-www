@@ -1,4 +1,4 @@
-![MapleWWW tools](http://digi-area.com/images/light/maplewww/logo.png)
+# Maple WWW Tool
 
 #### Requirements
  - Eclipse Kepler or higher
