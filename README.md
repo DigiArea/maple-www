@@ -1,4 +1,6 @@
-# Maple WWW Tool
+![MapleWWW tools](http://digi-area.com/images/light/maplewww/logo.png)
+
+Maple WWW is a technology that brings Maple Worksheets to the World Wide Web. Maple WWW is made with Closure IDE. Maple WWW Tool com.digiarea.maple.www is an Eclipse plugin to prepare Maple Worksheets for Maple WWW.
 
 #### Requirements
  - Eclipse Kepler or higher
@@ -22,6 +24,7 @@ java -cp "PATH_TO_FOLDER_WITH_THE_EXPORTED_PLUGIN/*" com.digiarea.maple.www.Conv
 ### Links
  
  - [Closure IDE - JavaScript IDE powered by Google Closure Tools](http://digi-area.com/ClosureIDE/)
+ - [Maple WWW Project](http://digi-area.com/light/MapleWWW/)
 
 ###License
 
