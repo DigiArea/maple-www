@@ -14,7 +14,7 @@ Go to the [Releases page](https://github.com/DigiArea/maple-www/releases) and do
 
 #### Use
 
-Use running templates included in the released verion (MapleWWW.bat for Windows or MapleWWW.sh for Unix).
+Use running templates included in the released version (MapleWWW.bat for Windows or MapleWWW.sh for Unix).
 
  - Open a template
  - Replace **PATH_TO_FOLDER_WITH_MAPLE_WORKSHEETS** and **PATH_TO_DESTINATION_FOLDER** with the related paths
