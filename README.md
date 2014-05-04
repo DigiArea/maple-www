@@ -8,6 +8,23 @@ Maple WWW Tool **com.digiarea.maple.www** is an Eclipse plugin to prepare Maple 
  - Eclipse Kepler or higher
  - Java 7 or higher
 
+#### Downloading
+
+Go to the Releases page and download the latest build.
+
+#### Use
+
+Use running templates included in the released verion (MapleWWW.bat for Windows or MapleWWW.sh for Unix).
+
+ - Open a template
+ - Replace **PATH_TO_FOLDER_WITH_MAPLE_WORKSHEETS** and **PATH_TO_DESTINATION_FOLDER** with the related paths
+ - Save the template and run
+
+Use the following command line to run the tool:
+```bash
+java -cp "PATH_TO_FOLDER_WITH_THE_EXPORTED_PLUGIN/*" com.digiarea.maple.www.Converter -src "PATH_TO_FOLDER_WITH_MAPLE_WORKSHEETS" -dst "PATH_TO_DESTINATION_FOLDER" -url "URL_OF_MAPLE_WWW_JS" -kind ANY
+```
+
 #### Build
 
  - Download Eclipse and check out the project
@@ -15,13 +32,6 @@ Maple WWW Tool **com.digiarea.maple.www** is an Eclipse plugin to prepare Maple 
  - Select **Export**
  - Select **Deployable plug-ins and fregments**
  - Follow the instructions
-
-#### Use
-
-Use the following command line to run the tool:
-```bash
-java -cp "PATH_TO_FOLDER_WITH_THE_EXPORTED_PLUGIN/*" com.digiarea.maple.www.Converter -src "PATH_TO_FOLDER_WITH_MAPLE_WORKSHEETS" -dst "PATH_TO_DESTINATION_FOLDER" -url "URL_OF_MAPLE_WWW_JS" -kind ANY
-```
 
 ### Links
  
