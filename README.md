@@ -10,7 +10,7 @@ Maple WWW Tool **com.digiarea.maple.www** is an Eclipse plugin to prepare Maple 
 
 #### Downloading
 
-Go to the Releases page and download the latest build.
+Go to the [Releases page](https://github.com/DigiArea/maple-www/releases) and download the latest build.
 
 #### Use
 
