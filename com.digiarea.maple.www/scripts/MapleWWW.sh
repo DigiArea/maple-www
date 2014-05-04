@@ -1,0 +1,2 @@
+#!/bin/sh
+java -cp "./com.digiarea.maple.www.jar" com.digiarea.maple.www.Converter -src "PATH_TO_FOLDER_WITH_MAPLE_WORKSHEETS" -dst "PATH_TO_DESTINATION_FOLDER" -url "http://digi-area.com/light/MapleWWW/js/maple-www.js" -kind ANY
