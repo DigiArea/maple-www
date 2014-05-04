@@ -22,7 +22,7 @@ Use running templates included in the released version (MapleWWW.bat for Windows
 
 #### Command Line
 
-To run the tool from hte command line, use the following:
+To run the tool from the command line, use the following:
 ```bash
 java -cp "PATH_TO_FOLDER_WITH_THE_EXPORTED_PLUGIN/*" com.digiarea.maple.www.Converter -src "PATH_TO_FOLDER_WITH_MAPLE_WORKSHEETS" -dst "PATH_TO_DESTINATION_FOLDER" -url "URL_OF_MAPLE_WWW_JS" -kind ANY
 ```
