@@ -38,7 +38,6 @@ java -cp "PATH_TO_FOLDER_WITH_THE_EXPORTED_PLUGIN/*" com.digiarea.maple.www.Conv
 ### Links
  
  - [Maple WWW Project](http://digi-area.com/light/MapleWWW/)
- - [Closure IDE - JavaScript IDE powered by Google Closure Tools](http://digi-area.com/ClosureIDE/)
 
 ###License
 
